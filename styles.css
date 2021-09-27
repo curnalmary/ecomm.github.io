@@ -11305,7 +11305,7 @@ body:before {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("../assets/img/notoneof.jpeg") #2a5555 no-repeat center center scroll;
+    background: url("notoneof.jpeg") #2a5555 no-repeat center center scroll;
     background-size: cover;
   }
 
